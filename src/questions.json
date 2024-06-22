@@ -1,0 +1,18 @@
+{
+    "health": [
+      { "id": 1, "question": "Any prior illness" },
+      { "id": 2, "question": "Any allergies" },
+      { "id": 3, "question": "Blood Group"}
+    ],
+
+    "education": [
+      { "id": 1, "question": "CGPA", "postId": 1 },
+      { "id": 2, "question": "University", "postId": 1 }
+    ],
+
+    "technology": [
+      { "id": 1, "question": "Projects" },
+      { "id": 2, "question": "Cover Letter" }
+    ]
+  }
+  
